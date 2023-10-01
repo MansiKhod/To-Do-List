@@ -124,7 +124,7 @@ ul li span:hover{
     }
     .btn{
         align-items: center;
-        padding: 12px 20px 12px 30px;
+        padding: 12px 10px 10px 30px;
         border: 2px solid black;
         border-radius: 40px;
         background-color: #f97d10ef;
