@@ -111,9 +111,7 @@ ul li span:hover{
         flex-grow: 1;
     }   
    .main_title{
-    margin-bottom: 40px;
-    margin-top: 1px;
-    margin-left: -200px;
+    margin: 10px 20px 30px;
     }
     .add{
         border: 2px solid black;
@@ -124,7 +122,8 @@ ul li span:hover{
     }
     .btn{
         align-items: center;
-        padding: 12px 10px 10px 30px;
+        text-align: center;
+        padding: 10px 20px;
         border: 2px solid black;
         border-radius: 40px;
         background-color: #f97d10ef;
