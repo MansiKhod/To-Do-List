@@ -98,6 +98,7 @@ ul li span:hover{
         display: grid;
         place-items: center; 
         height: 50vh;
+        text-align: center;
     }
     .text_box{
         border: 2px solid black;
@@ -106,7 +107,7 @@ ul li span:hover{
         align-items: left;
         justify-content: center;
         gap: 1px; 
-        background-color: white;
+        background-color: rgb(255, 255, 255);
         flex-grow: 1;
     }   
    .main_title{
@@ -123,7 +124,7 @@ ul li span:hover{
     }
     .btn{
         align-items: center;
-        padding: 12px 30px 12px 30px;
+        padding: 12px 20px 12px 30px;
         border: 2px solid black;
         border-radius: 40px;
         background-color: #f97d10ef;
