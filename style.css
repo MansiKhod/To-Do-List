@@ -118,7 +118,7 @@ ul li span:hover{
         border-radius: 40px;
         background-color: rgb(255, 255, 255);
         margin-left: -10px;
-        padding: 10px;
+        padding: 2% 2% 2% 2%;
     }
     .btn{
         align-items: center;
